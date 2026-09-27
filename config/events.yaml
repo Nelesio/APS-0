@@ -1,0 +1,9 @@
+{
+  "source_url": "https://ops.aps.anl.gov/statistics/2023/2023-1/fill_list.html",
+  "year": 2023,
+  "fill_numbers": [9, 10, 11, 12],
+  "assumed_timezone": "America/Chicago",
+  "alignment_window_seconds": 7200,
+  "timezone_status": "The official fill list does not state a timezone; America/Chicago is a reversible Stage-0 assumption."
+}
+
