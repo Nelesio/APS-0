@@ -1,0 +1,17 @@
+{
+  "status": "reference_from_original_stage0_run_not_hardcoded_as_current_output",
+  "raw_rows": 170547,
+  "successful_pvs": 6,
+  "window_hours": 36,
+  "events": 4,
+  "aligned_rows": 75992,
+  "median_intervals_seconds_by_pv": {
+    "S35DCCT": 1,
+    "TopUpInjectionEfficiency": 8,
+    "S31B:Q4:CurrentAI": 32,
+    "S31B:Q4:MagTempAI": 64,
+    "S4:KPS:ionPumpCurrent": 16,
+    "S4:K:ForwardPower": 16
+  }
+}
+
