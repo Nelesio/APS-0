@@ -1,0 +1,15 @@
+{
+  "start_utc": "2023-02-17T00:00:00Z",
+  "end_utc": "2023-02-18T12:00:00Z",
+  "display_timezone": "America/Chicago",
+  "disable_compaction": true,
+  "pvs": [
+    "S35DCCT",
+    "TopUpInjectionEfficiency",
+    "S31B:Q4:CurrentAI",
+    "S31B:Q4:MagTempAI",
+    "S4:KPS:ionPumpCurrent",
+    "S4:K:ForwardPower"
+  ]
+}
+
