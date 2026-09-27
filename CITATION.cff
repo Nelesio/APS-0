@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release when available."
+title: "APS Stage-0 reproducibility pipeline"
+type: software
+version: 0.1.0
+date-released: 2026-09-27
+authors:
+  - family-names: "Salinas Bustillo"
+    given-names: "Nelson Elias"
+repository-code: "REPLACE_WITH_PUBLIC_REPOSITORY_URL_AFTER_PUBLICATION"
+license: MIT
+abstract: >-
+  Reproducibility pipeline for a limited feasibility study using public APS
+  operational data. No APS data are distributed with the software.
+
